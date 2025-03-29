@@ -7,6 +7,8 @@ Beginner Projects
 - Number Guessing 2 https://drive.google.com/file/d/1KSb6k1wziXXAi-TENfkQnq3siN_kNGtK/view?usp=sharing
 - Primes https://drive.google.com/file/d/1IhP5yYpvbEFdj4nmEodi6RxSDvPGRMPR/view?usp=sharing
 - Letter counting https://colab.research.google.com/drive/13vvjPKE1sP462KE3lRO6k3e4fgx2RHhN?usp=sharing
+- Tic tac toe
+- Text cypher
   
 <br>
 
